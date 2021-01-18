@@ -31,6 +31,7 @@ void split(istringstream& iss,vector<string>& vec)
 /*TODO remove first element and execute fixes(commandLine in quit???)*/
 void CommandLine::run()
 {
+	//this is a test
 	vector<string> input;
 	string line;
 	do
